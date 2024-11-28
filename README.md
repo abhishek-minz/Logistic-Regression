@@ -21,3 +21,5 @@ The file provided includes 16 variables as follows:
 - y - has the client subscribed for the bank product
 
 A binary logistic regression model is built to facilitate understanding of the relationships between Marketing campaign characteristics and classification as yes or ‘no’.
+The approach included feature elimination and generating feature importance.
+Packages used included caret and Tidyverse.
